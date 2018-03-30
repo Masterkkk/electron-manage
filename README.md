@@ -8,6 +8,17 @@
 * 使用echarts进行图表的制作
 * 使用less进行样式设置
 
+## 效果图
+##### 登录效果
+![](./show-img/login.gif '登录界面')
+
+##### 首页
+![](./show-img/home.gif '首页')
+
+##### 卡片切换效果
+![](./show-img/win8.gif '仿win8切换')
+
+
 #### Build Setup
 
 ``` bash

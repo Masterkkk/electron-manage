@@ -3,7 +3,7 @@
         <h4 class="info-title">用户信息</h4>
         <div class="close-button" @click="closePage">x</div>
         <el-row>
-            <el-col :span="12" :offset="6">
+            <el-col :span="8" :offset="8">
                 <el-card :body-style="{ padding: '0px' }">
                     <img src="../../assets/img/test2.jpg" class="image">
                     <div style="padding: 14px;">
